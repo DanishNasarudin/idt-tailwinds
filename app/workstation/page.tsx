@@ -1,8 +1,8 @@
-import cpu from "@/public/CPU.png";
-import gpu from "@/public/GPU.png";
-import ram from "@/public/RAM.png";
-import ssd from "@/public/SSD.png";
-import hero from "@/public/hero.png";
+import cpu from "@/public/workstation/CPU.png";
+import gpu from "@/public/workstation/GPU.png";
+import ram from "@/public/workstation/RAM.png";
+import ssd from "@/public/workstation/SSD.png";
+import hero from "@/public/workstation/hero.png";
 
 type Props = {};
 

@@ -1,8 +1,8 @@
-import cpu from "@/public/CPU LAP.webp";
-import gpu from "@/public/GPU LAP.webp";
-import ram from "@/public/RAM LAP.webp";
-import ssd from "@/public/SSD LAP.webp";
-import hero from "@/public/hero lap.webp";
+import cpu from "@/public/workstation/CPU LAP.webp";
+import gpu from "@/public/workstation/GPU LAP.webp";
+import ram from "@/public/workstation/RAM LAP.webp";
+import ssd from "@/public/workstation/SSD LAP.webp";
+import hero from "@/public/workstation/hero lap.webp";
 
 type Props = {};
 
